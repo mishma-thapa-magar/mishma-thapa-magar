@@ -6,7 +6,7 @@ Hi!! It's me Mishma. I am currently studying Bachelor in Computing in Informatic
 - CyberSecurity.
 >> I am always eager to join new projects and learn new skills.
 >> I love to help and know you. So, feel free to ask help.
-Beside tech, I love to play guitar, sing and listening to new music as it helps me to connect with other cultures.
+Beside tech, I love to play guitar, sing and to listen new music as it helps me to connect with other cultures.
 
 # I want to join the Developer's community as it is an great opportunity to learn new things and great platform to hone my skills.
 
