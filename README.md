@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Short Intro about me: 
+
 Hi!! It's me Mishma. I am currently studying Bachelor in Computing in Informatics College Pokhara. I don't have much experience and skills but I am always willing to learn new things and thrive on developing myself.
 >>I am currently stydying:
 - Data Science in python.
