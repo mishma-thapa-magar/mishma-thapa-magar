@@ -3,7 +3,7 @@
 Hi!! It's me Mishma. I am currently studying Bachelor in Computing in Informatics College Pokhara. I don't have much experience and skills but I am always willing to learn new things and thrive on developing myself.
 >>I am currently stydying:
 - Data Science in python.
-- CyberSecurity.
+- Web Development
 >> I am always eager to join new projects and learn new skills.
 >> I love to help and know you. So, feel free to ask help.
 Beside tech, I love to play guitar, sing and to listen new music as it helps me to connect with other cultures.
